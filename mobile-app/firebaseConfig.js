@@ -1,4 +1,4 @@
-// Placeholder - Paste your Firebase Web SDK config here.
+npm install firebase
 // Create a Firebase project and copy the config from project settings.
 export const firebaseConfig = {
   apiKey: "REPLACE_ME",
