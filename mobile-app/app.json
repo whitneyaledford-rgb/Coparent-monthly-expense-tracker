@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "CoParent Expense Tracker",
+    "slug": "coparent-expense-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/app-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F5ED"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.example.coparent",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-icon.png",
+        "backgroundColor": "#F7F5ED"
+      }
+    }
+  }
+}
